@@ -3,4 +3,6 @@
 
 <p>This is a test application for our DevOps Training!</p>
 
+<p>We will push this to Docker Hub</p>
+
 
