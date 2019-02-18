@@ -3,6 +3,9 @@
 
 <p>This is a test application for our DevOps Training!</p>
 
+<h2>Steps:</h2>
 <p>We will push this to Docker Hub</p>
+
+<p>We are able to pull an image from Docker hub and able to create container</p>
 
 
